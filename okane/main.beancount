@@ -1,0 +1,5 @@
+option "operating_currency" "CNY"
+option "title" "Kotone Ledger"
+
+include "buckets.beancount"
+include "2026/main.beancount"

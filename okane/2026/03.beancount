@@ -1,0 +1,292 @@
+2026-03-01 * "Opening Balance" "Initial balance for WeChat"
+  Assets:Digital:WeChat    23.50 CNY
+  Equity:Opening-Balances
+
+2026-03-01 * "Opening Balance" "Initial debt for CMB Bilibili card"
+  Liabilities:CMB:Bilibili    -22375 CNY
+  Equity:Opening-Balances
+
+2026-03-01 * "Opening Balance" "Initial balance for CMB Gold debit card"
+  Assets:Bank:CMB:Gold    22920 CNY
+  Equity:Opening-Balances
+
+2026-03-01 * "Opening Balance" "Initial balance for AliPay"
+  Assets:Digital:AliPay    20.47 CNY
+  Equity:Opening-Balances
+
+2026-03-01 * "京东" "JD"
+  Expenses:Shopping        15.94 CNY
+  Assets:Digital:WeChat
+
+2026-03-01 * "滴滴出行" "先乘车后付款"
+  Expenses:Transport       11.40 CNY
+  Assets:Digital:WeChat
+
+2026-03-05 * "Friend A" "转账备注:微信转账"
+  Assets:Digital:WeChat   100.00 CNY
+  Income:Transfer
+
+2026-03-08 * "麦当劳" "麦当劳"
+  Expenses:Food            40.30 CNY
+  Assets:Digital:WeChat
+
+2026-03-08 * "Friend B" "转账备注:微信转账"
+  Assets:Digital:WeChat    70.00 CNY
+  Income:Transfer
+
+2026-03-08 * "Friend B" "转账备注:微信转账"
+  Expenses:Transfer        17.00 CNY
+  Assets:Digital:WeChat
+
+2026-03-08 * "Friend C" "收款方备注:二维码收款"
+  Assets:Digital:WeChat    97.50 CNY
+  Income:Transfer
+
+2026-03-08 * "Entertainment Store" "商城购买商品"
+  Expenses:Shopping         3.00 CNY
+  Assets:Digital:WeChat
+
+2026-03-09 * "美团" "先骑后付"
+  Expenses:Transport        1.50 CNY
+  Assets:Digital:WeChat
+
+2026-03-09 * "Bike Sharing" "先乘车后付款"
+  Expenses:Transport        2.50 CNY
+  Assets:Digital:WeChat
+
+2026-03-12 * "肯德基" "KFC"
+  Expenses:Food            39.80 CNY
+  Assets:Digital:WeChat
+
+2026-03-14 * "麦当劳" "麦当劳"
+  Expenses:Food            38.80 CNY
+  Assets:Digital:WeChat
+
+2026-03-14 * "osu 茉莉" "转账备注:微信转账"
+  Assets:Digital:WeChat    33.33 CNY
+  Income:Transfer
+
+2026-03-14 * "Friend D" "转账备注:微信转账"
+  Assets:Digital:WeChat    33.32 CNY
+  Income:Transfer
+
+2026-03-17 * "滴滴出行" "先乘车后付款"
+  Expenses:Transport       15.20 CNY
+  Assets:Digital:WeChat
+
+2026-03-17 * "滴滴出行" "先乘车后付款"
+  Expenses:Transport       18.20 CNY
+  Assets:Digital:WeChat
+
+2026-03-17 * "达美乐" "Dominos"
+  Expenses:Food            24.50 CNY
+  Assets:Digital:WeChat
+
+2026-03-18 * "麦当劳" "麦当劳"
+  Expenses:Food            22.90 CNY
+  Assets:Digital:WeChat
+
+2026-03-18 * "顺丰速运" "散单运费-顺丰速运"
+  Expenses:Shipping        20.00 CNY
+  Assets:Digital:WeChat
+
+2026-03-01 * "哈啰出行" ""
+  Expenses:Transport         1.80 CNY
+  Assets:Digital:AliPay
+
+2026-03-03 * "购物" ""
+  Expenses:Shopping         12.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-03 * "琴音努努，手毬努努" ""
+  Expenses:Shopping        138.00 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-03 * "Credit Card Payment" "Pay off CMB Bilibili card"
+  Liabilities:CMB:Bilibili    9221.93 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-04 * "便利店" ""
+  Expenses:Food              5.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-04 * "春日步棉花娃娃" ""
+  Expenses:Shopping        104.00 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-05 * "小伟川菜馆" ""
+  Expenses:Food             64.00 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-06 * "CDs" ""
+  Expenses:Shopping        400.00 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-06 * "Film Tickets" ""
+  Expenses:Shopping        209.82 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-06 * "辉辉松仔鸡" ""
+  Expenses:Food             97.49 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-07 * "DDR Dance Pad" ""
+  Expenses:Shopping       2800.00 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-08 * "AA饭钱" ""
+  Assets:Digital:AliPay     97.50 CNY
+  Income:Transfer
+
+2026-03-08 * "AA饭钱" ""
+  Assets:Digital:AliPay     97.50 CNY
+  Income:Transfer
+
+2026-03-08 * "便利店" ""
+  Expenses:Food              8.50 CNY
+  Assets:Digital:AliPay
+
+2026-03-08 * "便利店" ""
+  Expenses:Food              6.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-09 * "转账给我" ""
+  Assets:Digital:AliPay     19.00 CNY
+  Income:Transfer
+
+2026-03-09 * "盒马" ""
+  Expenses:Food             50.99 CNY
+  Assets:Digital:AliPay
+
+2026-03-12 * "AA房租" ""
+  Assets:Digital:AliPay   1200.00 CNY
+  Income:Transfer
+
+2026-03-12 * "盒马" ""
+  Expenses:Food            141.45 CNY
+  Assets:Digital:AliPay
+
+2026-03-13 * "Train Ticket" ""
+  Expenses:Transport       627.06 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-14 * "Tram" ""
+  Expenses:Transport         2.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-14 * "老吴家常菜" ""
+  Expenses:Food            200.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-14 * "AA饭钱" ""
+  Assets:Digital:AliPay     33.34 CNY
+  Income:Transfer
+
+2026-03-14 * "AA饭钱" ""
+  Assets:Digital:AliPay     33.34 CNY
+  Income:Transfer
+
+2026-03-14 * "AA饭钱" ""
+  Assets:Digital:AliPay     33.34 CNY
+  Income:Transfer
+
+2026-03-14 * "Tram" ""
+  Expenses:Transport         2.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-15 * "Tims咖啡" ""
+  Expenses:Food             18.30 CNY
+  Assets:Digital:AliPay
+
+2026-03-15 * "老韩炸鸡" ""
+  Expenses:Food             26.40 CNY
+  Assets:Digital:AliPay
+
+2026-03-16 * "话费" ""
+  Expenses:Utilities       100.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-16 * "盒马" ""
+  Expenses:Food             60.20 CNY
+  Assets:Digital:AliPay
+
+2026-03-16 * "Train Ticket" ""
+  Expenses:Transport       627.40 CNY
+  Assets:Bank:CMB:Gold
+
+2026-03-17 * "奈雪" ""
+  Expenses:Food             11.80 CNY
+  Assets:Digital:AliPay
+
+2026-03-18 * "BangBakery" ""
+  Expenses:Food             65.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-18 * "3DS充电线" ""
+  Expenses:Shopping         31.00 CNY
+  Assets:Digital:AliPay
+
+2026-03-18 * "Nintendo 3DS XL" ""
+  Expenses:Shopping        900.00 CNY
+  Assets:Bank:CMB:Gold
+
+; Credit card transactions - Bilibili card
+2026-03-01 * "财付通-滴滴出行" ""
+  Expenses:Transport        11.40 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-01 * "FANTIA" ""
+  Expenses:Digital:Subscription    13.18 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-02 * "沙县小吃" ""
+  Expenses:Food             30.10 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-02 * "OVHcloud" ""
+  Expenses:Digital:Hosting  196.91 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-02 * "YouTube Premium" ""
+  Expenses:Digital:Subscription   100.69 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-03 * "盒马鲜生" ""
+  Expenses:Food             42.09 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-03 * "盒马鲜生" ""
+  Expenses:Food             74.40 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-05 * "财付通-Power Company" ""
+  Expenses:Utilities       100.00 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-05 * "财付通-Power Company" ""
+  Expenses:Utilities       200.00 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-05 * "Google One" ""
+  Expenses:Digital:Subscription   128.23 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-07 * "Transit Card Co" "Apple Pay"
+  Expenses:Transport        99.92 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-07 * "Alipay-Noodle Shop" ""
+  Expenses:Food             27.00 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-07 * "支付宝-叶惠珍" ""
+  Expenses:Food              6.00 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-08 * "Alipay-Snack Shop" ""
+  Expenses:Food            390.00 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-08 * "STRIPE-Z.AI" ""
+  Expenses:Digital:AI      206.55 CNY
+  Liabilities:CMB:Bilibili

@@ -1,0 +1,21 @@
+2026-03-01 open Assets:Digital
+2026-03-01 open Assets:Digital:WeChat
+2026-03-01 open Assets:Digital:AliPay
+2026-03-01 open Assets:Bank:CMB:Gold
+
+2026-03-01 open Liabilities:CMB:Bilibili CNY
+2026-03-01 open Liabilities:CMB:Visa USD
+
+2026-03-01 open Equity:Opening-Balances
+
+2026-03-01 open Expenses:Food
+2026-03-01 open Expenses:Transport
+2026-03-01 open Expenses:Shipping
+2026-03-01 open Expenses:Shopping
+2026-03-01 open Expenses:Utilities
+2026-03-01 open Expenses:Transfer
+2026-03-01 open Expenses:Digital:Subscription
+2026-03-01 open Expenses:Digital:Hosting
+2026-03-01 open Expenses:Digital:AI
+
+2026-03-01 open Income:Transfer

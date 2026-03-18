@@ -96,6 +96,14 @@ YYYY-MM-DD pad Account:Target Account:Source
 7. **Auto-Balancing**: To prevent arithmetic errors, leave the amount and currency blank on the final posting of a transaction. Beancount will automatically calculate the difference.
 8. **Indentation**: All transaction postings must be indented with at least two spaces. Align all amounts vertically for readability.
 
+### Privacy & Sensitive Data
+
+When recording transactions, protect personal information:
+
+1. **Real Names**: Use abbreviations or pseudonyms instead of real person names (e.g., use "Friend A" or initials instead of "John Smith")
+2. **Addresses**: Transform real addresses into abstract references (e.g., use "Apartment" or "Home" instead of "123 Main Street")
+3. **Sensitive Data Detection**: If you notice transaction input that may expose sensitive personal information (names, addresses, phone numbers, ID numbers, etc.), **warn the user** before proceeding and suggest sanitized alternatives
+
 ## Nix Development Environment
 
 This project uses [flake-parts](https://flake.parts/) for modular Nix configuration.

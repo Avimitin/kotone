@@ -154,6 +154,17 @@ devShells.default = pkgs.mkShell {
 };
 ```
 
+## Jujutsu Version Control
+
+This project uses [Jujutsu (jj)](https://martinvonz.github.io/jj/) for version control.
+
+### Workflow Guidelines
+
+1. **Check Clean State**: Before starting new edits, verify working copy is clean with `jj status`.
+2. **Create New Change**: If there are existing working changes, always run `jj new` before starting new edits.
+3. **Describe Changes**: Use `jj desc -m "brief description"` to add descriptions to changes.
+4. **No Auto Push/Bookmark**: Never push or create bookmarks automatically. Only do so when explicitly requested by the user.
+
 ## Skills
 
 This project includes custom skills for common tasks:

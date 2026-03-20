@@ -302,3 +302,11 @@
 2026-03-20 * "Power Company" "Electricity"
   Expenses:Utilities      300.00 CNY
   Liabilities:CMB:Bilibili
+
+2026-03-20 * "滴滴出行" ""
+  Expenses:Transport       14.00 CNY
+  Assets:Digital:WeChat
+
+2026-03-20 * "Ultra Mobile" ""
+  Expenses:Utilities        5.34 USD
+  Liabilities:CMB:Visa

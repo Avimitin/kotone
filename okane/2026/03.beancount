@@ -298,3 +298,7 @@
 2026-03-19 * "茶餐厅" "港式鸡扒饭"
   Expenses:Food            23.68 CNY
   Assets:Digital:AliPay
+
+2026-03-20 * "Power Company" "Electricity"
+  Expenses:Utilities      300.00 CNY
+  Liabilities:CMB:Bilibili

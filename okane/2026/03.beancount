@@ -355,3 +355,7 @@
 2026-03-21 * "Beer" ""
   Expenses:Food              18.00 CNY
   Liabilities:CMB:Bilibili
+
+2026-03-21 * "Dinner" ""
+  Expenses:Food             113.00 CNY
+  Assets:Bank:CMB:Gold

@@ -160,10 +160,11 @@ This project uses [Jujutsu (jj)](https://martinvonz.github.io/jj/) for version c
 
 ### Workflow Guidelines
 
-1. **Check Clean State**: Before starting new edits, verify working copy is clean with `jj status`.
-2. **Create New Change**: If there are existing working changes, always run `jj new` before starting new edits.
+1. **Check Working Change First**: Before creating or editing anything, always run `jj status` to confirm the current working change state.
+2. **New Change Per Transaction**: For each new transaction task, create a new working change (for example with `jj new`) before editing files.
 3. **Describe Changes**: Use `jj desc -m "brief description"` to add descriptions to changes.
-4. **No Auto Push/Bookmark**: Never push or create bookmarks automatically. Only do so when explicitly requested by the user.
+4. **Push on `master` Only**: When pushing, fast-forward/update the `master` bookmark and push `master`; do not push via temporary branch/bookmark names.
+5. **No Auto Push/Bookmark**: Never push or create/move bookmarks automatically. Only do so when explicitly requested by the user.
 
 ## Skills
 

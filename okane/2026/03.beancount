@@ -322,3 +322,7 @@
 2026-03-20 * "Ice Cream" ""
   Expenses:Food              3.00 CNY
   Assets:Digital:AliPay
+
+2026-03-21 * "Cash Income" "Top up CMB Gold"
+  Assets:Bank:CMB:Gold     700.00 CNY
+  Income:Transfer

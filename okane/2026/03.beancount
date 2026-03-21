@@ -347,3 +347,7 @@
 2026-03-21 * "IPA Beer" ""
   Expenses:Food              130.00 CNY
   Liabilities:CMB:Bilibili
+
+2026-03-21 * "滴滴出行" ""
+  Expenses:Transport       12.80 CNY
+  Assets:Digital:WeChat

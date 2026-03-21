@@ -351,3 +351,7 @@
 2026-03-21 * "滴滴出行" ""
   Expenses:Transport       12.80 CNY
   Assets:Digital:WeChat
+
+2026-03-21 * "Beer" ""
+  Expenses:Food              18.00 CNY
+  Liabilities:CMB:Bilibili

@@ -326,3 +326,20 @@
 2026-03-21 * "Cash Income" "Top up CMB Gold"
   Assets:Bank:CMB:Gold     700.00 CNY
   Income:Transfer
+
+2026-03-21 * "Transfer" "AliPay to CMB Gold"
+  Assets:Bank:CMB:Gold     693.03 CNY
+  Assets:Digital:AliPay
+
+2026-03-21 * "Landlord" "Rent"
+  Expenses:Rent           3905.50 CNY
+  Assets:Bank:CMB:Gold
+
+
+2026-03-21 * "Boss" "Borrowing to CMB Gold"
+  Assets:Bank:CMB:Gold   10000.00 CNY
+  Liabilities:Personal:Boss
+
+2026-03-21 * "Balance Adjustment" "Adjust CMB Gold to actual balance"
+  Assets:Bank:CMB:Gold       4.64 CNY
+  Equity:Deviation

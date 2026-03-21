@@ -343,3 +343,7 @@
 2026-03-21 * "Balance Adjustment" "Adjust CMB Gold to actual balance"
   Assets:Bank:CMB:Gold       4.64 CNY
   Equity:Deviation
+
+2026-03-21 * "IPA Beer" ""
+  Expenses:Food              130.00 CNY
+  Liabilities:CMB:Bilibili

@@ -78,3 +78,11 @@ After any Beancount change, run:
 ```bash
 nix develop -c bean-check okane/main.beancount
 ```
+
+## Reporting Requirement
+
+After each transaction commit, run the status report task:
+
+```bash
+just report
+```

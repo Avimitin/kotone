@@ -359,3 +359,16 @@
 2026-03-21 * "Dinner" ""
   Expenses:Food             113.00 CNY
   Assets:Bank:CMB:Gold
+
+2026-03-21 * "Wrenches" "2 items"
+  Expenses:Shopping          12.99 CNY
+  Expenses:Shopping          25.80 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-22 * "DDR Mat" ""
+  Expenses:Shopping         224.99 CNY
+  Liabilities:CMB:Bilibili
+
+2026-03-22 * "DDR Wallpaper" ""
+  Expenses:Shopping          75.84 CNY
+  Liabilities:CMB:Bilibili
